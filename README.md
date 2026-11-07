@@ -11,9 +11,36 @@ Integrante (ordem alfabética) | GitHub | Área de carreira | RGM
 **Recorte:** Usuários do SUS no Brasil que dependem exclusivamente da rede pública e sofrem prejuízo pela falta de acesso às próprias informações de saúde (histórico, exames, tratamentos e etc). Essa população é a mais afetada pela fragmentação dos sistemas, e tem menor capacidade de contornar o problema por meios privados.
 
 ## 1. Análise do problema
-1.1 Quem é afetado, onde e quanto (com dados e fontes recentes)  
-1.2 Causas (destaque para causas tecnológicas)  
-1.3 O que já existe e por que não basta
+**1.1 Quem é afetado, onde e quando?**
+
+A falta de interoperabilidade afeta pacientes, profissionais e instituições de saúde, tanto públicas quanto privadas.
+
+O problema ocorre quando o paciente transita entre diferentes estabelecimentos e seus dados clínicos não estão disponíveis para consulta. Isso pode acontecer entre unidades do próprio SUS ou na transição entre serviços públicos e privados.
+
+Os principais prejudicados são os pacientes que dependem de diferentes instituições para consultas, exames e tratamentos, especialmente quando não conseguem disponibilizar seu histórico médico de maneira integrada.
+
+**1.2 Quais são as causas tecnológicas?**
+
+- Acesso restrito: a consulta e o compartilhamento de informações na RNDS dependem de autenticação, autorização e permissões específicas. Esse processo pode limitar a disponibilidade dos dados entre instituições.  
+- Fragmentação dos sistemas: diferentes estabelecimentos utilizam softwares e padrões de armazenamento que nem sempre conseguem se comunicar.  
+- Integração incompleta: nem todas as instituições públicas e privadas estão efetivamente conectadas à rede, dificultando a distribuição das informações.  
+- Dependência de infraestrutura: unidades sem equipamentos, conexão ou profissionais especializados enfrentam dificuldades para registrar e compartilhar informações.  
+- Limitações de acesso institucional: mesmo quando os dados existem, isso não significa que estejam disponíveis para consulta nos sistemas utilizados pelos profissionais de saúde.
+
+**1.3. O que já existe e por que não basta?**
+
+O Brasil possui a Rede Nacional de Dados em Saúde (RNDS), responsável por integrar e compartilhar informações clínicas, e o Meu SUS Digital, que permite aos cidadãos consultar e administrar informações disponibilizadas em seu histórico.
+
+Entretanto, essas iniciativas ainda enfrentam limitações de integração e distribuição. A existência de uma rede nacional não garante que todos os estabelecimentos estejam conectados ou consigam consultar as informações necessárias.
+
+Além disso, a necessidade de autorizações e processos de acesso pode dificultar o compartilhamento entre instituições, principalmente na relação entre serviços públicos e privados.
+
+A falta de interoperabilidade gera consequências práticas:  
+- Repetição desnecessária de exames já realizados.
+- Atrasos no atendimento devido à ausência de informações.
+- Risco de diagnósticos incorretos ou incompletos.
+- Descontinuidade de tratamentos por falta de histórico clínico.
+- Maior dificuldade para acompanhar a evolução do paciente.
 
 ## 2. Proposta tecnológica
 2.1 A solução do ponto de vista do usuário (passo a passo)  
