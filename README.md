@@ -128,11 +128,201 @@ Limitação tecnológica: sistemas de controle e inteligência artificial podem 
 ## 7. Quadro de decisões (mínimo 5)
 Tabela: Decisão | Alternativas | Por que escolhemos esta
 
-## 8. Capítulos individuais (um por integrante)
-Para cada um:  
-- Papel no projeto  
-- Plano de desenvolvimento (competências + tabela “já tenho?” + metas SMART 6–12 meses)  
-- Feedback dos colegas (escrito pelos outros)
+## 8. Capítulos individuais
+### 8.1 [Seu Nome Completo | Sua Área]
+
+**Papel no projeto:**
+
+[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+
+**Plano de desenvolvimento**
+
+| Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
+|---|---|---|---|
+| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+
+
+**Feedback dos colegas**
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+### 8.2 [Seu Nome Completo | Sua Área]
+
+**Papel no projeto:**
+
+[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+
+**Plano de desenvolvimento**
+
+| Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
+|---|---|---|---|
+| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+
+
+**Feedback dos colegas**
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+### 8.3 [Seu Nome Completo | Sua Área]
+
+**Papel no projeto:**
+
+[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+
+**Plano de desenvolvimento**
+
+| Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
+|---|---|---|---|
+| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+
+
+**Feedback dos colegas**
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+### 8.4 [Seu Nome Completo | Sua Área]
+
+**Papel no projeto:**
+
+[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+
+**Plano de desenvolvimento**
+
+| Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
+|---|---|---|---|
+| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+
+
+**Feedback dos colegas**
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+### 8.5 [Seu Nome Completo | Sua Área]
+
+**Papel no projeto:**
+
+[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+
+**Plano de desenvolvimento**
+
+| Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
+|---|---|---|---|
+| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+
+
+**Feedback dos colegas**
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
+
+**[Nome do integrante | Área de carreira]**  
+- **Pontos positivos**:  
+- **Pontos a melhorar**:  
+- **Sugestões**:
 
 ## 9. Referências
 Fontes dos últimos 2 anos (a partir de nov/2024) + leis/normas vigentes. Com link.
