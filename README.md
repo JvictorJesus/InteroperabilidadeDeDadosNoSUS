@@ -43,10 +43,67 @@ A falta de interoperabilidade gera consequências práticas:
 - Maior dificuldade para acompanhar a evolução do paciente.
 
 ## 2. Proposta tecnológica
-2.1 A solução do ponto de vista do usuário (passo a passo)  
-2.2 Arquitetura (diagrama Mermaid ou imagem + dados que entram, onde ficam, quem acessa)  
-2.3 O trabalho de cada área do grupo (detalhado) + como se complementam  
-2.4 O que a tecnologia não resolve
+**2.1 A solução do ponto de vista do usuário**
+
+A solução proposta consiste em ampliar e facilitar o acesso às informações da Rede Nacional de Dados em Saúde (RNDS), responsável por integrar e compartilhar informações clínicas, utilizando o Meu SUS Digital como uma das principais ferramentas de acesso para os cidadãos.
+
+Atualmente, essas informações ainda são pouco conhecidas pela população e, muitas vezes, não são devidamente disponibilizadas ou aproveitadas pelas instituições de saúde. Além de promover a conscientização dos pacientes sobre a existência dessa rede, a proposta busca facilitar o acesso às informações clínicas, permitindo que pacientes e profissionais de saúde consultem um histórico mais completo e integrado.
+
+Mesmo dentro do próprio SUS, existem situações em que exames são repetidos por falta de consulta aos registros anteriores, prolongando tratamentos e aumentando o sofrimento dos pacientes.
+
+A proposta de aprimoramento desse fluxo consiste nas seguintes etapas:
+
+1. Disponibilização de informações pelo paciente: o cidadão poderá consultar suas informações de saúde no Meu SUS Digital e disponibilizar documentos complementares, como exames realizados em instituições que ainda não estejam integradas à rede.  
+2. Acesso dos profissionais de saúde: médicos e demais profissionais autorizados deverão ter acesso facilitado ao histórico clínico dos pacientes, permitindo consultar informações anteriores e registrar novos atendimentos.  
+3. Conscientização da população: promover gradualmente o conhecimento sobre a existência e utilização da RNDS e do Meu SUS Digital, incentivando os cidadãos a acompanharem suas próprias informações de saúde.  
+4. Integração com instituições privadas: ampliar a integração dos sistemas de hospitais, clínicas e laboratórios particulares à rede nacional, reduzindo obstáculos técnicos e operacionais ao compartilhamento de informações.  
+5. Acompanhamento integrado: permitir que pacientes e profissionais autorizados acompanhem as informações clínicas disponíveis de maneira centralizada e acessível, contribuindo para a continuidade dos tratamentos.  
+
+**2.2 Arquitetura**
+
+A arquitetura proposta [Mermaid](https://mermaid.ai/app/projects/7c60d26e-5e11-40ba-8f77-b6224b6bc216/diagrams/d2c570b7-29bb-4bac-bb1a-8d4cc405d437/share/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkb2N1bWVudElEIjoiZDJjNTcwYjctMjliYi00YmFjLWJiMWEtOGQ0Y2M0MDVkNDM3IiwiYWNjZXNzIjoiVmlldyIsInB1cnBvc2UiOiJzaGFyZS1pbnZpdGUiLCJpYXQiOjE3OTQxNjA0NzEsImV4cCI6MTc5Njc1MjQ3MX0.iMt04q4yDiLnCc6v_QUOPW0IbmHnRW808ivMWgxoXQg?entryPoint=share-modal) representa o fluxo de informações entre pacientes, instituições públicas e privadas e a Rede Nacional de Dados em Saúde.
+
+Os dados são produzidos durante consultas, exames e tratamentos, enviados pelos sistemas das instituições integradas e disponibilizados na RNDS. Os pacientes podem consultar suas informações pelo Meu SUS Digital, enquanto os profissionais autorizados podem acessá-las conforme suas permissões.
+
+Quando uma instituição ainda não estiver integrada, o paciente poderá disponibilizar documentos complementares para auxiliar o atendimento, sem substituir a validação e o registro oficial pelos profissionais responsáveis.
+
+**2.3 O trabalho de cada área do grupo e como se complementam**
+
+- **Engenharia de Dados:** responsável pela coleta, organização, integração e orquestração dos dados necessários ao funcionamento do sistema. Também atua na preparação das informações para estatísticas, análises e pesquisas.
+
+- **Ciência de Dados:** responsável por analisar e correlacionar os dados coletados, identificando padrões, inconsistências e possíveis problemas. Pode contribuir com estudos que auxiliem na identificação de gargalos e oportunidades de melhoria no atendimento.
+
+- **Cloud Computing:** responsável pela infraestrutura de armazenamento e processamento em nuvem, garantindo disponibilidade, escalabilidade e capacidade de processamento das informações.
+
+- **Cibersegurança:** uma das áreas mais importantes, considerando a sensibilidade das informações médicas e dos dados pessoais dos pacientes e profissionais. Atua na proteção dos dados, controle de acesso, prevenção de invasões e garantia da confidencialidade e integridade das informações.
+
+- **Redes:** responsável por estabelecer e manter a comunicação entre os sistemas envolvidos, garantindo a conectividade e a transmissão das informações entre a RNDS e as instituições públicas e privadas.
+
+Integração entre as áreas: enquanto Engenharia de Dados organiza e prepara as informações, Ciência de Dados analisa seu conteúdo. Cloud Computing fornece a infraestrutura necessária para armazená-las e processá-las, Cibersegurança protege os dados e Redes garante a comunicação entre os diferentes sistemas. Dessa forma, todas as áreas trabalham em conjunto para garantir o funcionamento de uma estrutura integrada e segura.
+
+**2.4 O que a tecnologia não resolve**
+
+Embora a tecnologia possa contribuir para melhorar a eficiência do SUS, existem problemas estruturais que não podem ser solucionados exclusivamente por ferramentas tecnológicas ou inteligência artificial.
+
+1. Subfinanciamento
+Problema: recursos financeiros insuficientes, distribuição inadequada do orçamento e defasagem na remuneração de procedimentos médicos, comprometendo a capacidade de atendimento e manutenção dos serviços.  
+Limitação tecnológica: ferramentas digitais podem auxiliar no controle e na análise da distribuição dos recursos, mas não conseguem solucionar a insuficiência de investimentos financeiros ou substituir decisões políticas e orçamentárias.
+
+2. Longas filas de espera
+Problema: demora excessiva para conseguir consultas com especialistas, realizar exames e passar por cirurgias, prejudicando o diagnóstico e o início dos tratamentos.  
+Limitação tecnológica: sistemas inteligentes podem auxiliar na organização das filas, priorização de casos e otimização dos agendamentos, mas não resolvem a falta de profissionais, especialistas e capacidade de atendimento.
+
+3. Má gestão e falhas administrativas
+Problema: distribuição inadequada de recursos, falhas logísticas, dificuldade no controle de medicamentos e falta de integração entre os diferentes níveis de gestão do SUS.  
+Limitação tecnológica: sistemas informatizados podem melhorar o controle e a transparência administrativa, mas não substituem uma gestão eficiente, planejamento adequado e decisões administrativas responsáveis.
+
+4. Falta de leitos e superlotação
+Problema: quantidade insuficiente de leitos em hospitais e unidades de emergência, dificultando o atendimento, principalmente durante epidemias e períodos de aumento da demanda.  
+Limitação tecnológica: ferramentas de monitoramento podem auxiliar no acompanhamento da ocupação e na organização dos encaminhamentos, mas não criam novos leitos, hospitais ou ampliam a capacidade física das unidades.
+
+5. Falta de medicamentos
+Problema: indisponibilidade periódica de medicamentos essenciais nas Unidades Básicas de Saúde, prejudicando a continuidade dos tratamentos dos pacientes.  
+Limitação tecnológica: sistemas de controle e inteligência artificial podem auxiliar na previsão da demanda e no gerenciamento dos estoques, mas não resolvem problemas de aquisição, financiamento, fabricação e distribuição de medicamentos.
 
 ## 3. Análise ética
 3.1 Matriz de riscos (mínimo 5 riscos)  
