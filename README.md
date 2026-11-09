@@ -2,10 +2,10 @@
 
 ## Integrantes
 Alison Belen | [GitHub](https://github.com/alison97-ciber) | Cibersegurança | 48012327  
+Ana Julia de Aquino Silva | GitHub | Engenharia de Dados| 47784105.  
 Arthur Costa de Paula | [GitHub](https://github.com/artcpaula2007-creator) | Engenharia de Dados | 48108014  
 João Victor de Jesus Silva | [GitHub](https://github.com/JvictorJesus) | Engenharia de Dados | 48134872  
-Rafael Christian de Araujo Costa | [GitHub](https://github.com/Rafael44Christian) | Cibersegurança | 47926597  
-Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
+Rafael Christian de Araujo Costa | [GitHub](https://github.com/Rafael44Christian) | Cibersegurança | 47926597    
 
 **Dossiê:** Nº6 Interoperabilidade de dados no SUS  
 **Recorte:** Usuários do SUS no Brasil que dependem exclusivamente da rede pública e sofrem prejuízo pela falta de acesso às próprias informações de saúde (histórico, exames, tratamentos e etc). Essa população é a mais afetada pela fragmentação dos sistemas, e tem menor capacidade de contornar o problema por meios privados.
