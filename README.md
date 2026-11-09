@@ -1,9 +1,9 @@
 # Desafios para Integração da interoperabilidade nos sistemas de Saúde Publica
 
 ## Integrantes
+Alison Belen | [GitHub](https://github.com/alison97-ciber) | Cibersegurança | 48012327  
+Arthur Costa de Paula | [GitHub](https://github.com/artcpaula2007-creator) | Engenharia de Dados | 48108014  
 João Victor de Jesus Silva | [GitHub](https://github.com/JvictorJesus) | Engenharia de Dados | 48134872  
-Arthur Costa de Paula | [GitHub] (https://github.com/artcpaula2007-creator) | Engenharia de Dados | 48108014
-Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 
