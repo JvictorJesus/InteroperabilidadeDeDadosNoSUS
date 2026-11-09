@@ -228,21 +228,22 @@ Tabela: Decisão | Alternativas | Por que escolhemos esta
 - **Pontos a melhorar**:  
 - **Sugestões**:
 
-### 8.2 [Seu Nome Completo | Sua Área]
+### 8.2 [Ana Julia de Aquino Silva | Engenharia de Dados]
 
 **Papel no projeto:**
 
-[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+Minha participação no projeto foi ajudar na pesquisa sobre o problema de falta de informações entre o sistema de saúde. Também ajudei organizar os textos e entender as dificuldades enfrentadas pelos pacientes e profissionais, pensando em possíveis soluções para ambos lados.
 
 **Plano de desenvolvimento**
 
 | Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
 |---|---|---|---|
-| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+|Banco de Dados e SQL / | Técnica | Em desenvolvimento /| Aprender a criar, consultar e organizar bancos de dados, praticando comandos SQL pelo menos duas vezes por semana |
+| Integração de Dados | Técnica |  Não tenho | Entender como funciona a integração de informações entre diferentes sistemas e desenvolver um pequeno projeto prático até o final de 12 meses |
+| Python para análise de dados | Técnica | Em desenvolvimento | Aprender os principais comandos de Python e desenvolver atividades simples para organizar e analisar dados. |
+| Comunicação com o grupo | Comportamental Em desenvolvimento | Melhorar minha comunicação, participar mais das atividades em grupo e compartilhar minhas ideias durante os trabalhos. |
+| Inglês básico  | Meta | Em desenvolvimento 
+| Aprender palavras e expressões em inglê, estudando pelo menos 20 minutos por dia. |
 
 
 **Feedback dos colegas**
