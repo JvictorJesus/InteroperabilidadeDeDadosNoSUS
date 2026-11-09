@@ -285,21 +285,22 @@ Tabela: Decisão | Alternativas | Por que escolhemos esta
 - **Pontos a melhorar**:  
 - **Sugestões**:
 
-### 8.5 [Seu Nome Completo | Sua Área]
+### 8.5 João Victor de Jesus Silva | Engenharia de dados
 
 **Papel no projeto:**
 
-[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+Fui responsável pela realização de pesquisas, análise do problema relacionado à interoperabilidade de dados no sistema de saúde e contribuição na elaboração de uma proposta de solução. Minha participação envolveu investigar as dificuldades de integração e compartilhamento de informações entre instituições de saúde, considerando aspectos como acessibilidade, segurança e organização dos dados.
 
 **Plano de desenvolvimento**
 
-| Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
+| **Competência** | **Tipo** | **Situação atual** | **Meta (6 a 12 meses)** |
 |---|---|---|---|
-| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| Programação e desenvolvimento de sistemas | Técnica | Já tenho | Desenvolver pelo menos dois projetos práticos utilizando Java ou Python, aplicando boas práticas de programação e versionamento com Git. |
+| Banco de dados e análise de informações | Técnica | Em desenvolvimento | Aprofundar conhecimentos em SQL e modelagem de dados, desenvolvendo pelo menos um projeto que envolva consultas, relacionamentos e organização de informações. |
+| Análise de problemas e levantamento de requisitos | Técnica | Já tenho | Aplicar técnicas de análise de requisitos em pelo menos dois projetos acadêmicos ou pessoais, documentando problemas identificados e possíveis soluções. |
+| Comunicação e trabalho em equipe | Comportamental | Em desenvolvimento | Melhorar minha comunicação em atividades coletivas, participando ativamente de reuniões, apresentando ideias e contribuindo nas decisões dos projetos. |
+| Inglês | Meta | Em desenvolvimento | Desenvolver o inglês até alcançar o nível básico-intermediário, estudando pelo menos 30 minutos por dia e praticando leitura, escrita e conversação. |
+| Inserção profissional na área de tecnologia | Meta | Em desenvolvimento | Conquistar uma oportunidade de estágio ou emprego na área de TI nos próximos 12 meses, mantendo o currículo atualizado, aprimorando o LinkedIn e realizando candidaturas frequentes. |
 
 
 **Feedback dos colegas**
