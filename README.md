@@ -140,15 +140,16 @@ Dessa forma, a aplicação dos requisitos WCAG no Meu SUS Digital contribui para
 
 ## 5. Sustentabilidade
 5.1 Impacto ambiental da solução  
+
+A criação de um sistema que permita compartilhar as informações dos pacientes do SUS pode trazer benefícios não só para a nossa saúde, mas também para o meio ambiente.
+Com as informações armazenadas de forma digital, será possível diminuir o uso do papel, já que muito documentos e históricos médico poderá de ser consultados pelo próprio sistema. Além disso, quando o resultado dos exames estiverem disponíveis para diferentes unidades de saúde, poderá diminuir a repetição de exames que já foram realizados.
+
 5.2 Sustentabilidade do projeto (quem mantém, quem paga, depois do 1º ano)
+
 Para que o projeto continue funcionando depois do primeiro ano, será necessário que o Governo Federal, junto com os estados e municípios, fique responsável pela manutenção e pelos investimentos necessários.
-
 Os custos poderão ser mantidos por meio de recursos públicos destinados à saúde e à tecnologia. Esse investimento será utilizado para atualizar o sistema, corrigir possíveis erros, manter os servidores funcionando e garantir a segurança das informações dos pacientes.
-
 Também será necessário contar com profissionais da área de TI para acompanhar o funcionamento da plataforma, realizar melhorias e resolver problemas que possam surgir durante sua utilização.
-
 Uma forma de evitar gastos desnecessários seria aproveitar estruturas que já existem, como a Rede Nacional de Dados em Saúde (RNDS) e o Meu SUS Digital, realizando melhorias nos sistemas em vez de desenvolver tudo novamente.
-
 Na nossa visão, para que o projeto continue funcionando por muitos anos, não basta apenas criar uma solução tecnológica. É necessário investir em manutenção, segurança e profissionais capacitados. Assim, será possível oferecer aos usuários do SUS um acesso mais fácil às suas informações de saúde, independentemente da unidade em que forem atendidos.
 
 ## 6. Impacto esperado
