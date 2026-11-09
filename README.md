@@ -2,7 +2,7 @@
 
 ## Integrantes
 João Victor de Jesus Silva | [GitHub](https://github.com/JvictorJesus) | Engenharia de Dados | 48134872  
-Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
+Arthur Costa de Paula | GitHub | Engenharia de Dados | 48108014
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
@@ -246,21 +246,20 @@ Tabela: Decisão | Alternativas | Por que escolhemos esta
 - **Pontos a melhorar**:  
 - **Sugestões**:
 
-### 8.4 [Seu Nome Completo | Sua Área]
+### 8.4 [ Arthur Costa de Paula | Engenharia de Dados]
 
 **Papel no projeto:**
+Fui responsável pela pesquisa e análise dos principais desafios enfrentados pelo Sistema Único de Saúde (SUS), identificando suas causas e consequências para a população. Além disso, busquei compreender as dificuldades enfrentadas pelos usuários do sistema e desenvolvi propostas de soluções para os problemas identificados, considerando tanto a aplicação da Inteligência Artificial (IA) quanto alternativas convencionais que não dependem do uso dessa tecnologia, com o objetivo de contribuir para a melhoria da qualidade e da eficiência dos serviços de saúde pública.
 
-[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
 
 **Plano de desenvolvimento**
 
 | Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
 |---|---|---|---|
-| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| Desenvolvimento de sistemas | Técnica |  Em desenvolvimento  | Procuro aperfeiçoar o desenvolvimento de sistemas, dependendo menos da IA , e poder fazer mais alguns projetos utilizando Python e Java |
+| Comunicação técnica com o grupo | Comportamental | Já tenho | Busco sempre a melhor forma possível de me expressar para meus colegas , entenderem e compreenderem minha linha de raciocínio, para que sempre estejamos na mesma pagina e continuar um bom trabalho   |
+| Organização e cumprimento de prazos| Comportamental | Em desenvolvimento | Sempre é bom prestar atençao nos prazos preciso aprender a usar isso a meu favor fazendo ja uma grande parte do trabalho antes para que a finalização não seja corrida e no final não atenda as expectativas|
+| Inglês básico | Meta | Em desenvolvimento  | Cursos de inglês finalizados eu já tenho o que falta é aperfeiçoar a parte da conversa, conversar totalmente em ingles sem travar ou ficar confuso com a pronuncia por isso buscar fazer sempre coisas como , trabalhos em inglês para que minha mente decore e estude a língua  |
 
 
 **Feedback dos colegas**
@@ -305,10 +304,10 @@ Fui responsável pela realização de pesquisas, análise do problema relacionad
 
 **Feedback dos colegas**
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Arthur Costa de Paula| Engenharia de Dados]**  
+- **Pontos positivos**:A página está dividida em seções bem definidas, facilitando a compreensão das informações; O plano apresenta metas com prazos de 6 a 12 meses, permitindo acompanhar sua evolução;Demonstra preocupação em aprimorar conhecimentos em programação,banco de dados e análise de informações;Inclui competências comportamentais, como comunicação e trabalho em equipe, que são importantes no mercado profissional; Apresenta interesse em ingressar no mercado de tecnologia e conquistar uma oportunidade na área. 
+- **Pontos a melhorar**: A meta poderia especificar quais conhecimentos técnicos em inglês pretende desenvolver, considerando a importância da língua na área de tecnologia; Algumas metas poderiam apresentar resultados mais concretos e critérios para avaliar se foram alcançadas.
+- **Sugestões**:Explicar melhor como sua pesquisa contribuiu para a proposta de solução; Definir objetivos relacionados à conquista de estágio em Engenharia de Dados; Criar projetos práticos e disponibilizá-los no GitHub para demonstrar seus conhecimentos.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
