@@ -280,10 +280,10 @@ Além disso, considerei requisitos de acessibilidade baseados nas diretrizes WCA
 
 ## Feedback dos colegas
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[João Victor de Jesus Silva | Engenharia de dados]**  
+- **Pontos positivos**: Metas de desenvolvimento bem direcionadas à área de interesse em Ciber-segurânça. A pesquisa incluí grupos diversos, ampliando a capacidade de inclusão da solução inicial.  
+- **Pontos a melhorar**: Maior especificação nos critérios concretos da WCAG, que não especifica exatamente quais mecanismos devem estar presentes na solução para cada grupo.  
+- **Sugestões**: Aprimorar a proposta de inclusão da solução, aprofundando os requisitos de inclusão conforme a WCAG.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -323,10 +323,10 @@ Fui responsável pela pesquisa e análise dos principais desafios enfrentados pe
 - **Pontos a melhorar**: Aprimorar a organização dos prazos e desenvolver maior autonomia na programação, reduzindo a dependência da IA.  
 - **Sugestões**: Desenvolver projetos práticos com Python e Java, organizar melhor as tarefas e praticar conversação em inglês para fortalecer suas habilidades profissionais.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[João Victor de Jesus Silva | Engenharia de Dados]**  
+- **Pontos positivos**: Muito interessante destacar que, apesar de ainda precisar do uso de IA para o desenvolvimento de algumas atividades, segue buscando maior independência da ferramenta. A pesquisa foi essêncial para o desenvolvimento do projeto.  
+- **Pontos a melhorar**: Pequena falta de detalhamento em relação ás propostas em alternativa ao uso de IA, considerando as falhas de gestão, filas e falta de remedios.  
+- **Sugestões**: Desenvolvimento de um portifólio, mesmo que com projetos feitos a partir de IA, que servirão como base para destacar a evolução. Aprimoramento das soluções não tecnológicas.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
