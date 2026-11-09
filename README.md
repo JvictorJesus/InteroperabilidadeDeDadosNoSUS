@@ -524,10 +524,13 @@ Além disso, considerei requisitos de acessibilidade baseados nas diretrizes WCA
 - **Pontos a melhorar**:  Poderia aprofundar um pouco mais a parte prática da acessibilidade, detalhando como os recursos sugeridos seriam aplicados no Meu SUS Digital.
 - **Sugestões**:  Buscar exemplos de aplicações das diretrizes WCAG em sistemas reais e desenvolver propostas ainda mais específicas para melhorar a experiência dos usuários.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
+**[Arthur Costa | Engenheira de Dados]**  
+- **Pontos positivos**:
+ Busca desenvolver conhecimentos em diferentes áreas da TI, o que pode proporcionar uma formação profissional mais completa.
+- **Pontos a melhorar**:
+- Como apresenta objetivos em diferentes áreas da tecnologia, seria interessante identificar uma área para aprofundar os conhecimentos e direcionar melhor sua carreira.
 - **Sugestões**:
+- Criar pelo menos dois projetos de programação e publicá-los no GitHub, explicando suas funcionalidades e tecnologias utilizadas.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
