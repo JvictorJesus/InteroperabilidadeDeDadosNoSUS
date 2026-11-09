@@ -143,9 +143,34 @@ Dessa forma, a aplicação dos requisitos WCAG no Meu SUS Digital contribui para
 5.2 Sustentabilidade do projeto (quem mantém, quem paga, depois do 1º ano)
 
 ## 6. Impacto esperado
+A implementação de uma solução tecnológica voltada à interoperabilidade de dados no Sistema Único de Saúde (SUS) tem como objetivo melhorar a integração e o compartilhamento de informações entre instituições de saúde, proporcionando maior agilidade nos atendimentos, redução de falhas administrativas e melhor organização dos dados dos pacientes.
+
+Com o auxílio da inteligência artificial, espera-se também otimizar processos, identificar padrões de demanda e auxiliar os profissionais na tomada de decisões, contribuindo para uma gestão mais eficiente dos recursos disponíveis.
 6.1 Indicadores mensuráveis com meta  
-6.2 Como os usuários serão ouvidos antes de ampliar  
+Para avaliar a eficiência da solução proposta, serão utilizados indicadores que permitam acompanhar os resultados durante sua implementação.
+
+- Integração de informações: alcançar pelo menos 80% de integração dos registros das unidades participantes do projeto-piloto.
+- Agilidade no acesso aos dados: reduzir em 30% o tempo necessário para localizar informações dos pacientes.
+- Redução de retrabalho: diminuir em 20% a duplicidade de cadastros e registros de informações.
+- Satisfação dos usuários: alcançar pelo menos 80% de avaliações positivas entre pacientes e profissionais participantes.
+- Segurança das informações: garantir o cumprimento das normas da LGPD e monitorar possíveis falhas de segurança e acessos não autorizados.
+As metas são estimativas iniciais para o projeto-piloto e poderão ser ajustadas conforme os resultados obtidos.
+6.2 Como os usuários serão ouvidos antes de ampliar
+  Antes de ampliar a implementação da solução, serão realizadas pesquisas de satisfação, entrevistas e avaliações com pacientes, médicos, enfermeiros e profissionais administrativos das unidades de saúde participantes.
+O objetivo será identificar dificuldades de utilização, problemas de acessibilidade, possíveis falhas no compartilhamento de informações e necessidades de melhorias.
+Também serão analisadas sugestões dos profissionais responsáveis pelo atendimento, garantindo que a tecnologia realmente contribua para facilitar suas atividades e melhorar a experiência dos pacientes.
+Somente após a avaliação dos resultados e a realização dos ajustes necessários será considerada a expansão da solução para outras unidades de saúde.
 6.3 Se a solução não pegar
+  Caso a solução não apresente os resultados esperados, será realizada uma análise para identificar as principais causas, como dificuldades de integração entre sistemas, falta de capacitação dos profissionais, problemas técnicos ou resistência à utilização da ferramenta.
+
+A partir dessa avaliação, poderão ser adotadas medidas como:
+ Revisão e aprimoramento do sistema de integração de dados;
+ Capacitação dos profissionais responsáveis pela utilização da plataforma;
+ Melhorias na infraestrutura tecnológica das unidades participantes;
+ Reavaliação das ferramentas de inteligência artificial utilizadas;
+ Manutenção de procedimentos convencionais e registros alternativos para evitar a interrupção dos atendimentos.
+
+Caso a tecnologia não demonstre benefícios suficientes, sua implementação poderá ser reduzida ou reformulada, priorizando soluções administrativas e operacionais que contribuam para a melhoria do atendimento público de saúde.
 
 ## 7. Quadro de decisões (mínimo 5)
 Tabela: Decisão | Alternativas | Por que escolhemos esta
