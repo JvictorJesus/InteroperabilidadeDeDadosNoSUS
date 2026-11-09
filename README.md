@@ -4,7 +4,7 @@
 Alison Belen | [GitHub](https://github.com/alison97-ciber) | Cibersegurança | 48012327  
 Arthur Costa de Paula | [GitHub](https://github.com/artcpaula2007-creator) | Engenharia de Dados | 48108014  
 João Victor de Jesus Silva | [GitHub](https://github.com/JvictorJesus) | Engenharia de Dados | 48134872  
-Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
+Rafael Christian de Araujo Costa | [GitHub](https://github.com/Rafael44Christian) | Cibersegurança | 47926597  
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 
 **Dossiê:** Nº6 Interoperabilidade de dados no SUS  
@@ -106,11 +106,203 @@ Problema: indisponibilidade periódica de medicamentos essenciais nas Unidades B
 Limitação tecnológica: sistemas de controle e inteligência artificial podem auxiliar na previsão da demanda e no gerenciamento dos estoques, mas não resolvem problemas de aquisição, financiamento, fabricação e distribuição de medicamentos.
 
 ## 3. Análise ética
-3.1 Matriz de riscos (mínimo 5 riscos)  
-3.2 Decisão (implantar / com controles / não implantar ainda) + justificativa ≤ 10 linhas  
-3.3 Controles antes de produção (mínimo 6, cobrindo: transparência, revisão humana, minimização de dados, segurança, teste de viés, canal de contestação)  
-3.4 LGPD (tabela de dados pessoais)  
-3.5 Comunicado público (≤ 600 caracteres, estilo LinkedIn) + contagem
+3.1 Matriz de riscos
+
+A integração de informações de saúde exige cuidados éticos e técnicos, pois envolve dados pessoais sensíveis. A falta de proteção adequada pode causar prejuízos aos pacientes, comprometer a confiança no SUS e dificultar a continuidade dos atendimentos.
+
+Risco identificado
+
+Probabilidade
+
+Impacto
+
+Medidas de prevenção
+
+Acesso não autorizado aos prontuários
+
+Média
+
+Muito alto
+
+Autenticação multifator, controle de permissões e acesso restrito aos profissionais autorizados.
+
+Vazamento de dados pessoais e médicos
+
+Média
+
+Muito alto
+
+Criptografia dos dados, monitoramento de acessos, testes de segurança e plano de resposta a incidentes.
+
+Alteração ou inconsistência das informações médicas
+
+Média
+
+Alto
+
+Validação dos dados recebidos, identificação da instituição responsável e registro do histórico de alterações.
+
+Indisponibilidade dos sistemas
+
+Média
+
+Alto
+
+Backups, redundância de infraestrutura, monitoramento e plano de recuperação de serviços.
+
+Uso indevido das informações por instituições
+
+Média
+
+Muito alto
+
+Definição de finalidades permitidas, auditoria, responsabilização e fiscalização dos acessos.
+
+Discriminação ou decisões baseadas em dados incompletos
+
+Média
+
+Alto
+
+Revisão humana, testes de viés e proibição de decisões clínicas exclusivamente automatizadas.
+
+Exclusão de pessoas com dificuldades de acesso digital
+
+Alta
+
+Alto
+
+Manutenção de atendimento presencial, linguagem simples e alternativas de acesso às informações.
+
+Envio de documentos falsos ou incorretos pelo paciente
+
+Média
+
+Alto
+
+Identificação da origem dos documentos e validação por profissionais antes de incorporá-los ao histórico oficial.
+
+As classificações de probabilidade e impacto são estimativas iniciais para o projeto e deverão ser revistas durante os testes e a implantação.
+
+3.2 Decisão: implantar com controles
+
+A decisão é implantar a solução com controles rigorosos de segurança, privacidade e transparência. A integração pode melhorar a continuidade do atendimento, reduzir a repetição de exames e facilitar o acesso ao histórico médico. Entretanto, como envolve dados pessoais sensíveis, sua implantação deverá ocorrer gradualmente, com testes de segurança, controle de permissões e auditoria. Os profissionais de saúde continuarão responsáveis pelas decisões clínicas, sem depender exclusivamente de processos automatizados. A solução também deverá respeitar a LGPD e garantir que o cidadão tenha conhecimento sobre o uso de suas informações.
+
+3.3 Controles antes de produção
+
+Antes da disponibilização da solução, deverão ser implementadas as seguintes medidas:
+
+Transparência: informar aos pacientes quais dados são coletados, por que são utilizados, quais instituições podem acessá-los e quais são seus direitos.
+
+Revisão humana: garantir que informações clínicas importantes e documentos complementares sejam avaliados por profissionais habilitados, sem permitir que sistemas automatizados substituam decisões médicas.
+
+Minimização de dados: coletar e compartilhar somente as informações necessárias para cada finalidade, evitando o acesso a todo o histórico médico quando isso não for necessário.
+
+Segurança da informação: utilizar criptografia durante o armazenamento e a transmissão dos dados, autenticação multifator, controle de acesso por função e monitoramento de atividades suspeitas.
+
+Teste de viés: avaliar periodicamente se os dados utilizados em análises ou ferramentas automatizadas apresentam distorções que possam prejudicar determinados grupos de pacientes.
+
+Canal de contestação: disponibilizar um canal para que os cidadãos solicitem correções de informações, esclareçam dúvidas e contestem acessos ou utilizações indevidas de seus dados.
+
+Auditoria e rastreabilidade: registrar quem acessou as informações, quando ocorreu o acesso, qual instituição realizou a consulta e quais alterações foram feitas.
+
+Plano de resposta a incidentes: estabelecer procedimentos para identificar, conter e comunicar incidentes de segurança, seguindo as exigências da LGPD e da Resolução CD/ANPD nº 15/2024.
+
+Controle de integração: verificar a identidade e a autorização das instituições conectadas à RNDS, além de validar a origem e a estrutura dos dados recebidos.
+
+3.4 LGPD – Tabela de dados pessoais
+
+A proposta envolve o tratamento de dados pessoais comuns e sensíveis, principalmente informações relacionadas à saúde. Por isso, o projeto deverá respeitar os princípios da finalidade, adequação, necessidade, transparência, segurança e prevenção previstos na Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
+
+Dados tratados
+
+Classificação
+
+Finalidade do tratamento
+
+Proteção necessária
+
+Nome completo
+
+Dado pessoal
+
+Identificar corretamente o paciente.
+
+Controle de acesso e armazenamento seguro.
+
+CPF e Cartão Nacional de Saúde (CNS)
+
+Dado pessoal
+
+Confirmar a identidade e relacionar os registros médicos ao paciente correto.
+
+Criptografia e acesso restrito.
+
+Data de nascimento e dados de contato
+
+Dado pessoal
+
+Identificação e comunicação com o cidadão.
+
+Acesso limitado e utilização somente quando necessário.
+
+Diagnósticos, doenças e histórico médico
+
+Dado pessoal sensível
+
+Permitir a continuidade do atendimento e o acompanhamento clínico.
+
+Criptografia, permissões específicas e auditoria.
+
+Resultados de exames e prescrições
+
+Dado pessoal sensível
+
+Auxiliar os profissionais na avaliação e no acompanhamento do paciente.
+
+Compartilhamento restrito e validação das informações.
+
+Vacinas, medicamentos e tratamentos
+
+Dado pessoal sensível
+
+Consultar procedimentos realizados e evitar interrupções ou repetições desnecessárias.
+
+Proteção contra acessos e alterações não autorizadas.
+
+Identificação dos profissionais de saúde
+
+Dado pessoal
+
+Verificar quem realizou o atendimento e controlar as permissões de acesso.
+
+Autenticação e registro de atividades.
+
+Registros de acesso ao sistema
+
+Dado pessoal, quando identificável
+
+Garantir rastreabilidade, auditoria e investigação de possíveis incidentes.
+
+Armazenamento protegido e acesso restrito.
+
+Bases legais e responsabilidades:
+
+Para dados pessoais comuns, poderão ser aplicadas as hipóteses legais do artigo 7º da LGPD, especialmente o cumprimento de políticas públicas pela administração pública, quando cabível.
+
+Para dados pessoais sensíveis, deverão ser observadas as hipóteses específicas do artigo 11, como o tratamento necessário à execução de políticas públicas previstas em leis e regulamentos e à tutela da saúde, conforme o contexto e os agentes envolvidos.
+
+O tratamento não deverá utilizar o consentimento como justificativa genérica para qualquer compartilhamento. A base legal deverá ser definida e documentada conforme a finalidade de cada operação.
+
+Os dados deverão ser mantidos somente pelo período necessário, respeitando as obrigações legais e os prazos de guarda aplicáveis.
+
+Os cidadãos deverão ter acesso a informações sobre o tratamento de seus dados e aos mecanismos legais para solicitar correções e exercer seus direitos.
+
+3.5 Comunicado público (estilo LinkedIn)
+
+A proposta busca facilitar o acesso ao histórico de saúde por meio da integração entre instituições e a Rede Nacional de Dados em Saúde (RNDS), com consulta pelo Meu SUS Digital e por profissionais autorizados. O uso será limitado às finalidades legítimas, com acesso controlado, registro de consultas e proteção conforme a LGPD. O cidadão receberá informações claras sobre seus dados e terá canal para solicitar correções, esclarecer dúvidas ou contestar usos indevidos. A implantação será gradual, após testes de segurança e avaliação dos resultados.
+
+Contagem: 552 caracteres (incluindo espaços e pontuação).
 
 ## 4. Acessibilidade e inclusão digital
 **4.1 Quem pode ficar de fora + o que a solução faz por cada grupo**
@@ -186,25 +378,50 @@ A partir dessa avaliação, poderão ser adotadas medidas como:
 Caso a tecnologia não demonstre benefícios suficientes, sua implementação poderá ser reduzida ou reformulada, priorizando soluções administrativas e operacionais que contribuam para a melhoria do atendimento público de saúde.
 
 ## 7. Quadro de decisões (mínimo 5)
-Tabela: Decisão | Alternativas | Por que escolhemos esta
+
+Durante o desenvolvimento da proposta, foram avaliadas diferentes alternativas para melhorar a interoperabilidade entre os sistemas de saúde. As decisões foram tomadas considerando a facilidade de acesso às informações, a segurança dos dados, a inclusão dos pacientes e a viabilidade da solução.
+
+| Decisão | Alternativas | Por que escolhemos esta |
+|---|---|---|
+| Utilizar a RNDS como base para integração dos dados | Criar uma plataforma independente; utilizar a RNDS; integrar somente sistemas locais. | Escolhemos utilizar a RNDS porque ela já é a estrutura nacional destinada à integração e ao compartilhamento de informações de saúde, evitando criar uma rede paralela. |
+| Utilizar o Meu SUS Digital como ferramenta de acesso para os cidadãos | Criar um aplicativo próprio; utilizar o Meu SUS Digital; disponibilizar somente acesso presencial. | Escolhemos o Meu SUS Digital porque já é uma ferramenta disponibilizada pelo Ministério da Saúde e permite que os cidadãos consultem informações de saúde sem precisar utilizar outro aplicativo. |
+| Permitir a integração de instituições públicas e privadas | Integrar somente unidades públicas; permitir integração de instituições públicas e privadas; manter sistemas separados. | Escolhemos ampliar a integração para ambos os setores, pois o paciente pode realizar consultas e exames em diferentes instituições e precisa ter continuidade no atendimento. |
+| Permitir o envio de documentos complementares pelos pacientes | Bloquear documentos externos; permitir o envio com validação; incorporar automaticamente todos os documentos ao histórico oficial. | Escolhemos permitir o envio com validação profissional, pois isso ajuda pacientes que realizam exames em instituições ainda não integradas, sem comprometer a confiabilidade das informações médicas. |
+| Adotar controles rigorosos de segurança e privacidade | Acesso amplo às informações; acesso restrito por autorização; compartilhamento sem registro. | Escolhemos o acesso controlado e auditável, com autenticação, criptografia e registro de atividades, para proteger os dados pessoais e médicos conforme a LGPD. |
+| Realizar a implantação de forma gradual | Implantação imediata em todas as instituições; implantação por etapas e testes; adiar completamente o projeto. | Escolhemos a implantação gradual porque permite identificar falhas, avaliar a segurança, corrigir problemas e melhorar a integração antes de ampliar o uso da solução. |
+| Manter alternativas de atendimento para pessoas com dificuldades digitais | Utilizar somente o aplicativo; oferecer acesso digital e suporte presencial; restringir o acesso aos usuários com dispositivos modernos. | Escolhemos combinar o acesso digital com alternativas presenciais, garantindo que idosos, pessoas com deficiência e cidadãos sem acesso à internet também possam consultar e utilizar suas informações de saúde. |
+
+As decisões foram definidas buscando equilibrar inovação, segurança, acessibilidade e viabilidade. Dessa forma, a proposta aproveita estruturas já existentes no SUS e procura melhorar a integração das informações sem deixar de lado a proteção e os direitos dos pacientes.
 
 ## 8. Capítulos individuais
-### 8.1 [Seu Nome Completo | Sua Área]
+### 8.1 Rafael Christian de Araujo Costa | Cibersegurança
 
-**Papel no projeto:**
+#### Papel no projeto
 
-[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+Minha participação no projeto foi voltada principalmente à área de Cibersegurança, contribuindo diretamente para o desenvolvimento das seções 3 (Análise Ética) e 7 (Quadro de Decisões).
 
-**Plano de desenvolvimento**
+Na seção 3, fui responsável por desenvolver a análise dos riscos relacionados ao compartilhamento de informações de saúde, identificando possíveis problemas como vazamento de dados, acessos não autorizados, alterações indevidas de informações médicas e uso inadequado dos dados dos pacientes. Também trabalhei na definição de medidas preventivas, considerando a criptografia, autenticação, controle de acesso, auditoria e os requisitos da Lei Geral de Proteção de Dados (LGPD).
+
+Além disso, desenvolvi a tabela de dados pessoais, relacionando as informações que podem ser utilizadas pelo sistema, suas finalidades e as formas necessárias de proteção. Também participei da definição da decisão de implantação da solução com controles de segurança, transparência e privacidade.
+
+Na seção 7, contribuí para o quadro de decisões do projeto, apresentando as alternativas avaliadas e justificando as escolhas realizadas pelo grupo. Entre elas estão a utilização da RNDS como base de integração, o uso do Meu SUS Digital para acesso dos cidadãos, a integração entre instituições públicas e privadas, a validação de documentos complementares enviados pelos pacientes e a implantação gradual da solução.
+
+Minha principal contribuição foi demonstrar que a integração dos dados do SUS precisa ir além da comunicação entre sistemas. É necessário garantir que as informações dos pacientes sejam protegidas, utilizadas corretamente e compartilhadas somente de acordo com as finalidades permitidas.
+
+Também fiquei responsável por reunir e organizar as referências bibliográficas do projeto, desenvolvendo a seção 9. Realizei pesquisas em fontes oficiais, como o Ministério da Saúde, a ANPD, a legislação brasileira e organizações responsáveis por padrões de tecnologia. Essa etapa foi importante para fundamentar as decisões do grupo, principalmente nas questões relacionadas à interoperabilidade, segurança da informação, acessibilidade e proteção de dados pessoais.
+
+Com isso, minha contribuição envolveu não apenas a análise dos riscos e as decisões de segurança, mas também a pesquisa de informações confiáveis para dar embasamento ao desenvolvimento da proposta.
+
+#### Plano de desenvolvimento
 
 | Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
 |---|---|---|---|
-| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-
+| Segurança da informação | Técnica | Em desenvolvimento | Estudar os fundamentos de segurança da informação e aplicar conhecimentos de criptografia, autenticação e controle de acesso em pelo menos dois projetos ou laboratórios práticos. |
+| Proteção de dados e LGPD | Técnica | Em desenvolvimento | Aprofundar meus conhecimentos na LGPD e desenvolver pelo menos um checklist de segurança e privacidade para aplicar em um projeto acadêmico. |
+| Redes e infraestrutura | Técnica | Em desenvolvimento | Estudar protocolos, redes, firewalls e mecanismos de proteção, realizando pelo menos dois exercícios práticos de configuração e segurança de redes. |
+| Análise de riscos e vulnerabilidades | Técnica | Em desenvolvimento | Aprender técnicas de identificação de vulnerabilidades e realizar pelo menos dois laboratórios práticos em ambientes controlados. |
+| Comunicação e trabalho em equipe | Comportamental | Em desenvolvimento | Melhorar minha comunicação técnica, participar das decisões dos projetos e apresentar pelo menos um trabalho relacionado à tecnologia durante os próximos 12 meses. |
+| Inglês técnico | Meta | Em desenvolvimento | Estudar inglês por pelo menos 20 minutos, quatro vezes por semana, durante seis meses, buscando melhorar a compreensão de documentações e conteúdos de Cibersegurança. |
 
 **Feedback dos colegas**
 
@@ -248,10 +465,10 @@ Minha participação no projeto foi ajudar na pesquisa sobre o problema de falta
 
 **Feedback dos colegas**
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Rafael Christian | Cibersegurança]**  
+- **Pontos positivos**:  Demonstrou dedicação na elaboração da sua parte individual e contribuiu para ampliar a visão do grupo sobre o tema. Seu trabalho apresenta informações relevantes e mostra preocupação em relacionar os conhecimentos da sua área com a proposta de melhoria do SUS.
+- **Pontos a melhorar**:  Poderia aprofundar um pouco mais a relação entre sua área profissional e a solução tecnológica proposta, detalhando como suas habilidades poderiam ser aplicadas na prática.
+- **Sugestões**:  Continuar desenvolvendo seus conhecimentos técnicos, buscar experiências práticas relacionadas à sua área e procurar aplicar esses conhecimentos em projetos que envolvam tecnologia e saúde.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -296,10 +513,10 @@ Além disso, considerei requisitos de acessibilidade baseados nas diretrizes WCA
 - **Pontos a melhorar**: Maior especificação nos critérios concretos da WCAG, que não especifica exatamente quais mecanismos devem estar presentes na solução para cada grupo.  
 - **Sugestões**: Aprimorar a proposta de inclusão da solução, aprofundando os requisitos de inclusão conforme a WCAG.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Rafael Christian | Cibersegurança]** 
+- **Pontos positivos**:  Demonstrou preocupação com a inclusão digital e conseguiu identificar diferentes grupos que podem enfrentar dificuldades para utilizar os serviços digitais do SUS. Também apresentou boas sugestões de acessibilidade, relacionando a proposta às diretrizes WCAG.
+- **Pontos a melhorar**:  Poderia aprofundar um pouco mais a parte prática da acessibilidade, detalhando como os recursos sugeridos seriam aplicados no Meu SUS Digital.
+- **Sugestões**:  Buscar exemplos de aplicações das diretrizes WCAG em sistemas reais e desenvolver propostas ainda mais específicas para melhorar a experiência dos usuários.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -339,10 +556,10 @@ Fui responsável pela pesquisa e análise dos principais desafios enfrentados pe
 - **Pontos a melhorar**: Pequena falta de detalhamento em relação ás propostas em alternativa ao uso de IA, considerando as falhas de gestão, filas e falta de remedios.  
 - **Sugestões**: Desenvolvimento de um portifólio, mesmo que com projetos feitos a partir de IA, que servirão como base para destacar a evolução. Aprimoramento das soluções não tecnológicas.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Rafael Christian | Cibersegurança]**  
+- **Pontos positivos**:  Demonstrou boa capacidade de pesquisa e iniciativa ao identificar diferentes problemas enfrentados pelo SUS. Também foi interessante considerar soluções que não dependem exclusivamente da inteligência artificial.
+- **Pontos a melhorar**:  Poderia detalhar melhor como as soluções propostas seriam colocadas em prática e aprofundar a relação entre suas pesquisas e a proposta tecnológica do grupo.
+- **Sugestões**: Desenvolver projetos práticos utilizando Python e Java, além de buscar formas de relacionar seus conhecimentos de programação e engenharia de dados aos problemas apresentados no projeto.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -379,10 +596,10 @@ Fui responsável pela realização de pesquisas, análise do problema relacionad
 - **Pontos a melhorar**: Aprofundar conhecimentos em ferramentas específicas de Engenharia de Dados e tornar algumas metas mais mensuráveis.  
 - **Sugestões**: Desenvolver projetos práticos com Python e SQL, publicar no GitHub e buscar oportunidades de estágio na área.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Rafael Christian | Cibersegurança]**  
+- **Pontos positivos**:  Apresentou uma boa análise sobre a interoperabilidade dos dados no SUS e demonstrou preocupação com a integração das informações entre diferentes instituições. Também apresentou metas de desenvolvimento bem organizadas e relacionadas à sua área profissional.
+- **Pontos a melhorar**:   Poderia detalhar um pouco mais sua participação na construção da solução tecnológica, mostrando quais conhecimentos de Engenharia de Dados foram aplicados ou poderiam ser utilizados no projeto.
+- **Sugestões**:  Aprofundar os conhecimentos em SQL, integração de sistemas e modelagem de dados, desenvolvendo projetos práticos que possam demonstrar sua evolução e contribuir para sua entrada no mercado de tecnologia.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -390,4 +607,25 @@ Fui responsável pela realização de pesquisas, análise do problema relacionad
 - **Sugestões**:
 
 ## 9. Referências
-Fontes dos últimos 2 anos (a partir de nov/2024) + leis/normas vigentes. Com link.
+
+As referências abaixo foram utilizadas para fundamentar as pesquisas, decisões técnicas, análises éticas e propostas apresentadas neste projeto.
+
+1. **GITHUB.** Interoperabilidade de Dados no SUS – Repositório do projeto. Disponível em: https://github.com/JvictorJesus/InteroperabilidadeDeDadosNoSUS. Acesso em: 9 nov. 2026.
+
+2. **BRASIL. Ministério da Saúde.** Rede Nacional de Dados em Saúde (RNDS). Apresenta a plataforma oficial de interoperabilidade e o compartilhamento de informações de saúde. Disponível em: https://www.gov.br/saude/pt-br/composicao/seidigi/rnds/rnds. Acesso em: 9 nov. 2026.
+
+3. **BRASIL. Ministério da Saúde.** Meu SUS Digital. Informações sobre os serviços digitais, histórico de saúde e acesso dos cidadãos aos seus dados. Disponível em: https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital. Acesso em: 9 nov. 2026.
+
+4. **BRASIL. Ministério da Saúde.** Guia de Implementação da Rede Nacional de Dados em Saúde (RNDS). Documentação técnica sobre integração dos sistemas e utilização do padrão HL7 FHIR R4. Disponível em: https://fhir.saude.gov.br/. Acesso em: 9 nov. 2026.
+
+5. **BRASIL.** Decreto nº 12.560, de 23 de julho de 2025. Dispõe sobre a Rede Nacional de Dados em Saúde e sobre as Plataformas SUS Digital. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12560.htm. Acesso em: 9 nov. 2026.
+
+6. **BRASIL.** Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm. Acesso em: 9 nov. 2026.
+
+7. **AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS (ANPD).** Resolução CD/ANPD nº 15, de 24 de abril de 2024. Regulamento de Comunicação de Incidente de Segurança. Disponível em: https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/. Acesso em: 9 nov. 2026.
+
+8. **WORLD WIDE WEB CONSORTIUM (W3C).** Web Content Accessibility Guidelines (WCAG) 2.2. Diretrizes internacionais para acessibilidade de conteúdos e aplicações digitais. Disponível em: https://www.w3.org/WAI/standards-guidelines/wcag/. Acesso em: 9 nov. 2026.
+
+9. **HL7 INTERNATIONAL.** FHIR (Fast Healthcare Interoperability Resources). Padrão internacional para troca e integração de informações em saúde. Disponível em: https://hl7.org/fhir/R4/. Acesso em: 9 nov. 2026.
+
+10. **BRASIL.** Lei nº 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a promoção, proteção e recuperação da saúde e a organização e o funcionamento dos serviços correspondentes. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8080.htm. Acesso em: 9 nov. 2026.
