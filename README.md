@@ -2,7 +2,7 @@
 
 ## Integrantes
 João Victor de Jesus Silva | [GitHub](https://github.com/JvictorJesus) | Engenharia de Dados | 48134872  
-Arthur Costa de Paula | GitHub | Engenharia de Dados | 48108014
+Arthur Costa de Paula | [GitHub] (https://github.com/artcpaula2007-creator) | Engenharia de Dados | 48108014
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
 Integrante (ordem alfabética) | GitHub | Área de carreira | RGM  
