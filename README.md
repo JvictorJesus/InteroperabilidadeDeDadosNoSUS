@@ -425,10 +425,13 @@ Com isso, minha contribuição envolveu não apenas a análise dos riscos e as d
 
 **Feedback dos colegas**
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
+**[Arthur Costa| Engenharia de Dados]**  
+- **Pontos positivos**:
+- Apresenta metas claras para desenvolver conhecimentos em segurança da informação, redes, LGPD e análise de vulnerabilidades.
+- **Pontos a melhorar**:
+- Buscar maior contato com ferramentas utilizadas na área de Cibersegurança, como Wireshark, Linux e ferramentas de análise de vulnerabilidades.
 - **Sugestões**:
+- Estudar a LGPD na prática: Elaborar checklists de privacidade e segurança para aplicar em projetos acadêmic
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -470,10 +473,13 @@ Minha participação no projeto foi ajudar na pesquisa sobre o problema de falta
 - **Pontos a melhorar**:  Poderia aprofundar um pouco mais a relação entre sua área profissional e a solução tecnológica proposta, detalhando como suas habilidades poderiam ser aplicadas na prática.
 - **Sugestões**:  Continuar desenvolvendo seus conhecimentos técnicos, buscar experiências práticas relacionadas à sua área e procurar aplicar esses conhecimentos em projetos que envolvam tecnologia e saúde.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
+**[Arthur Costa | Engenharia de Dados]**  
+- **Pontos positivos**:
+- Ela apresenta metas específicas para desenvolver competências técnicas e comportamentais ao longo de 6 a 12 meses.
+- **Pontos a melhorar**:
+- Trabalhar a confiança para apresentar ideias, tirar dúvidas e participar mais ativamente das decisões em grupo.
 - **Sugestões**:
+- Utilizar aplicativos como Duolingo e assistir a vídeos com legendas em inglês para melhorar a compreensão.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
