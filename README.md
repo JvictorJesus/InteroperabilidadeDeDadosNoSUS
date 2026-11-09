@@ -229,24 +229,28 @@ Tabela: Decisão | Alternativas | Por que escolhemos esta
 - **Pontos a melhorar**:  
 - **Sugestões**:
 
-### 8.3 [Seu Nome Completo | Sua Área]
+## 8.3 Alison Belen | Cibersegurança
 
 **Papel no projeto:**
 
-[Descreva aqui o que você ficou responsável e o que produziu de concreto no trabalho. Ex: pesquisa e escrita da análise do problema, definição da solução, diagramas, revisão do texto etc.]
+Fui responsável pela avaliação individual do tópico 4 — Acessibilidade e Inclusão Digital. Durante essa etapa, identifiquei os grupos que poderiam enfrentar dificuldades no acesso aos serviços digitais, como idosos, pessoas com deficiência e pessoas com pouca familiaridade com a tecnologia.
 
-**Plano de desenvolvimento**
+Como proposta de solução, sugeri a integração dos dados dos pacientes por meio do aplicativo do SUS, utilizando uma interface simples e acessível. A proposta inclui recursos como letras ampliadas, compatibilidade com leitores de tela, navegação intuitiva e atendimento presencial como alternativa para pessoas que não possuem acesso à internet.
+
+Além disso, considerei requisitos de acessibilidade baseados nas diretrizes WCAG, buscando contribuir para uma solução mais inclusiva, acessível e eficiente para todos os pacientes.
+
+## Plano de desenvolvimento
 
 | Competência | Tipo | Situação atual | Meta (6 a 12 meses) |
-|---|---|---|---|
-| [Ex: Modelagem de dados / Integração de sistemas] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Comunicação técnica com o grupo] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Análise de requisitos de privacidade (LGPD)] | Técnica | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Organização e cumprimento de prazos] | Comportamental | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
-| [Ex: Inglês básico] | Meta | Já tenho / Em desenvolvimento / Não tenho | [Meta SMART] |
+| --- | --- | --- | --- |
+| Programação | Técnica | Em desenvolvimento | Fortalecer os conhecimentos de programação por meio de estudos regulares e desenvolver pelo menos 2 projetos práticos, publicando-os no GitHub com descrição. |
+| Cibersegurança | Técnica | Em desenvolvimento | Estudar os fundamentos de cibersegurança durante os próximos 12 meses e concluir pelo menos 1 curso ou trilha introdutória. |
+| Banco de dados e redes | Técnica | Em desenvolvimento | Praticar conceitos de banco de dados e redes e desenvolver pelo menos 1 atividade ou projeto acadêmico que aplique esses conhecimentos. |
+| Comunicação técnica com o grupo | Comportamental | Em desenvolvimento | Participar das atividades em grupo e apresentar ou explicar pelo menos 1 projeto ou conteúdo técnico ao longo dos próximos 6 a 12 meses. |
+| Organização e cumprimento de prazos | Comportamental | Em desenvolvimento | Planejar semanalmente as tarefas acadêmicas e cumprir os prazos de entrega das atividades durante os próximos 6 meses. |
+| Inglês básico | Meta | Em desenvolvimento | Estudar inglês por 20 minutos, 3 vezes por semana, durante 12 meses, para melhorar a compreensão de conteúdos e materiais da área de tecnologia. |
 
-
-**Feedback dos colegas**
+## Feedback dos colegas
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
