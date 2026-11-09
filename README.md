@@ -290,10 +290,10 @@ Fui responsável pela pesquisa e análise dos principais desafios enfrentados pe
 
 **Feedback dos colegas**
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Alison Belen | Cibersegurança]**  
+- **Pontos positivos**: Demonstra iniciativa, boa capacidade de pesquisa e análise, além de preocupação em propor soluções para os problemas identificados.  
+- **Pontos a melhorar**: Aprimorar a organização dos prazos e desenvolver maior autonomia na programação, reduzindo a dependência da IA.  
+- **Sugestões**: Desenvolver projetos práticos com Python e Java, organizar melhor as tarefas e praticar conversação em inglês para fortalecer suas habilidades profissionais.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -335,10 +335,10 @@ Fui responsável pela realização de pesquisas, análise do problema relacionad
 - **Pontos a melhorar**: A meta poderia especificar quais conhecimentos técnicos em inglês pretende desenvolver, considerando a importância da língua na área de tecnologia; Algumas metas poderiam apresentar resultados mais concretos e critérios para avaliar se foram alcançadas.
 - **Sugestões**:Explicar melhor como sua pesquisa contribuiu para a proposta de solução; Definir objetivos relacionados à conquista de estágio em Engenharia de Dados; Criar projetos práticos e disponibilizá-los no GitHub para demonstrar seus conhecimentos.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Alison Belen | Cibersegurança]**  
+- **Pontos positivos**: Apresenta boa organização, metas claras e interesse em desenvolver conhecimentos técnicos e profissionais.  
+- **Pontos a melhorar**: Aprofundar conhecimentos em ferramentas específicas de Engenharia de Dados e tornar algumas metas mais mensuráveis.  
+- **Sugestões**: Desenvolver projetos práticos com Python e SQL, publicar no GitHub e buscar oportunidades de estágio na área.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
