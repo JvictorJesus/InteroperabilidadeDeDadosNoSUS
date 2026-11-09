@@ -113,8 +113,30 @@ Limitação tecnológica: sistemas de controle e inteligência artificial podem 
 3.5 Comunicado público (≤ 600 caracteres, estilo LinkedIn) + contagem
 
 ## 4. Acessibilidade e inclusão digital
-4.1 Quem pode ficar de fora + o que a solução faz por cada grupo  
-4.2 Requisitos concretos de acessibilidade (WCAG)
+**4.1 Quem pode ficar de fora + o que a solução faz por cada grupo**
+
+A integração dos dados dos pacientes pelo aplicativo do SUS busca facilitar o acesso aos serviços de saúde. Porém, algumas pessoas podem enfrentar dificuldades para utilizar a tecnologia.
+Idosos: podem ter dificuldade com aplicativos. A solução deve oferecer uma interface simples, com letras grandes e navegação fácil.  
+Pessoas com deficiência visual: o aplicativo deve ser compatível com leitores de tela e permitir aumentar o tamanho das letras.  
+Pessoas com deficiência auditiva: disponibilizar informações por escrito, notificações visuais e instruções claras.  
+Pessoas com baixa alfabetização digital: oferecer instruções simples, ícones intuitivos e orientação para utilizar o aplicativo.  
+Pessoas sem acesso à internet: permitir que o atendimento presencial continue disponível nas unidades de saúde.  
+Pessoas com deficiência motora: oferecer navegação por comandos de voz e compatibilidade com tecnologias assistivas.  
+A proposta é garantir que todos os pacientes consigam acessar suas informações de saúde, independentemente de suas limitações ou condições de acesso à tecnologia.
+
+**4.2 Requisitos concretos de acessibilidade (WCAG)**
+
+Os requisitos concretos de acessibilidade WCAG (Web Content Accessibility Guidelines) são diretrizes internacionais que estabelecem critérios para tornar sites e aplicativos acessíveis a todas as pessoas, incluindo aquelas com deficiência visual, auditiva, motora ou cognitiva. Essas diretrizes foram desenvolvidas pelo W3C (World Wide Web Consortium) e têm como objetivo garantir que todos possam acessar e utilizar os recursos digitais com autonomia, segurança e igualdade de condições.  
+
+As WCAG são organizadas em quatro princípios fundamentais: perceptível, operável, compreensível e robusto. O princípio perceptível determina que as informações devem ser apresentadas de maneira que todos consigam identificá-las, como utilizar textos com contraste adequado, permitir o aumento das letras e oferecer descrições para imagens e ícones. O princípio operável estabelece que as funcionalidades devem ser acessíveis e fáceis de utilizar, permitindo, por exemplo, a navegação por teclado ou por tecnologias assistivas. O princípio compreensível determina que as informações, instruções e mensagens sejam claras e simples, facilitando o entendimento dos usuários. Já o princípio robusto garante que o aplicativo seja compatível com diferentes dispositivos e tecnologias assistivas, como leitores de tela.  
+
+No aplicativo Meu SUS Digital, esses requisitos são importantes porque a plataforma disponibiliza informações e serviços relacionados à saúde da população, como carteira de vacinação, histórico clínico, resultados de exames, medicamentos e documentos de saúde. Portanto, é necessário garantir que pessoas com diferentes necessidades consigam utilizar essas funcionalidades sem enfrentar barreiras digitais.  
+
+Na prática, a acessibilidade pode ser aplicada permitindo que pessoas com deficiência visual utilizem leitores de tela para identificar botões, menus e informações sobre vacinas e exames. Também é importante oferecer contraste adequado entre textos e fundos, permitir o aumento do tamanho das letras e garantir que os ícones tenham descrições compreensíveis. Para pessoas com deficiência auditiva, os conteúdos em vídeo devem possuir legendas e as notificações não devem depender exclusivamente de sons. Para pessoas com deficiência motora, os botões devem ter tamanho adequado, ser bem distribuídos na tela e permitir o uso de tecnologias assistivas. Já para pessoas com deficiência cognitiva, é importante utilizar linguagem simples, instruções objetivas, menus organizados e mensagens de erro fáceis de compreender.  
+
+Outro aspecto importante é a aplicação dos níveis de conformidade WCAG, classificados em A, AA e AAA. O nível A contempla requisitos básicos de acessibilidade; o nível AA apresenta critérios mais abrangentes e é uma referência recomendada para serviços digitais públicos; e o nível AAA reúne requisitos mais rigorosos. Para o aplicativo do SUS, buscar a conformidade com o nível AA é uma medida importante para ampliar o acesso da população aos serviços digitais.  
+
+Dessa forma, a aplicação dos requisitos WCAG no Meu SUS Digital contribui para garantir os princípios de universalidade e equidade do SUS, pois permite que todos os cidadãos tenham condições de acessar informações e serviços de saúde, independentemente de suas limitações físicas, sensoriais ou cognitivas. Assim, a acessibilidade digital não deve ser considerada apenas um recurso adicional, mas uma necessidade para assegurar inclusão, autonomia e igualdade no acesso à saúde.
 
 ## 5. Sustentabilidade
 5.1 Impacto ambiental da solução  
