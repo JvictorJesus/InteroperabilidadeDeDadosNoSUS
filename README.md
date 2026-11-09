@@ -141,6 +141,15 @@ Dessa forma, a aplicação dos requisitos WCAG no Meu SUS Digital contribui para
 ## 5. Sustentabilidade
 5.1 Impacto ambiental da solução  
 5.2 Sustentabilidade do projeto (quem mantém, quem paga, depois do 1º ano)
+Para que o projeto continue funcionando depois do primeiro ano, será necessário que o Governo Federal, junto com os estados e municípios, fique responsável pela manutenção e pelos investimentos necessários.
+
+Os custos poderão ser mantidos por meio de recursos públicos destinados à saúde e à tecnologia. Esse investimento será utilizado para atualizar o sistema, corrigir possíveis erros, manter os servidores funcionando e garantir a segurança das informações dos pacientes.
+
+Também será necessário contar com profissionais da área de TI para acompanhar o funcionamento da plataforma, realizar melhorias e resolver problemas que possam surgir durante sua utilização.
+
+Uma forma de evitar gastos desnecessários seria aproveitar estruturas que já existem, como a Rede Nacional de Dados em Saúde (RNDS) e o Meu SUS Digital, realizando melhorias nos sistemas em vez de desenvolver tudo novamente.
+
+Na nossa visão, para que o projeto continue funcionando por muitos anos, não basta apenas criar uma solução tecnológica. É necessário investir em manutenção, segurança e profissionais capacitados. Assim, será possível oferecer aos usuários do SUS um acesso mais fácil às suas informações de saúde, independentemente da unidade em que forem atendidos.
 
 ## 6. Impacto esperado
 A implementação de uma solução tecnológica voltada à interoperabilidade de dados no Sistema Único de Saúde (SUS) tem como objetivo melhorar a integração e o compartilhamento de informações entre instituições de saúde, proporcionando maior agilidade nos atendimentos, redução de falhas administrativas e melhor organização dos dados dos pacientes.
