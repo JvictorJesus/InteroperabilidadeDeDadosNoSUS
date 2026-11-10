@@ -106,203 +106,65 @@ Problema: indisponibilidade periódica de medicamentos essenciais nas Unidades B
 Limitação tecnológica: sistemas de controle e inteligência artificial podem auxiliar na previsão da demanda e no gerenciamento dos estoques, mas não resolvem problemas de aquisição, financiamento, fabricação e distribuição de medicamentos.
 
 ## 3. Análise ética
-3.1 Matriz de riscos
+**3.1 Matriz de riscos**
 
 A integração de informações de saúde exige cuidados éticos e técnicos, pois envolve dados pessoais sensíveis. A falta de proteção adequada pode causar prejuízos aos pacientes, comprometer a confiança no SUS e dificultar a continuidade dos atendimentos.
 
-Risco identificado
+| Risco identificado | Probabilidade | Impacto | Medidas de prevenção |
+|--------------------|---------------|---------|----------------------|
+| Acesso não autorizado aos prontuários | Média | Muito alto | Autenticação multifator, controle de permissões e acesso restrito aos profissionais autorizados. |
+| Vazamento de dados pessoais e médicos | Média | Muito alto | Criptografia dos dados, monitoramento de acessos, testes de segurança e plano de resposta a incidentes. |
+| Alteração ou inconsistência das informações médicas | Média | Alto | Validação dos dados recebidos, identificação da instituição responsável e registro do histórico de alterações. |
+| Indisponibilidade dos sistemas | Média | Alto | Backups, redundância de infraestrutura, monitoramento e plano de recuperação de serviços. |
+| Uso indevido das informações por instituições | Média | Muito alto | Definição de finalidades permitidas, auditoria, responsabilização e fiscalização dos acessos. |
+| Discriminação ou decisões baseadas em dados incompletos | Média | Alto | Revisão humana, testes de viés e proibição de decisões clínicas exclusivamente automatizadas. |
+| Exclusão de pessoas com dificuldades de acesso digital | Alta | Alto | Manutenção de atendimento presencial, linguagem simples e alternativas de acesso às informações. |
+| Envio de documentos falsos ou incorretos pelo paciente | Média | Alto | Identificação da origem dos documentos e validação por profissionais antes de incorporá-los ao histórico oficial. |
 
-Probabilidade
-
-Impacto
-
-Medidas de prevenção
-
-Acesso não autorizado aos prontuários
-
-Média
-
-Muito alto
-
-Autenticação multifator, controle de permissões e acesso restrito aos profissionais autorizados.
-
-Vazamento de dados pessoais e médicos
-
-Média
-
-Muito alto
-
-Criptografia dos dados, monitoramento de acessos, testes de segurança e plano de resposta a incidentes.
-
-Alteração ou inconsistência das informações médicas
-
-Média
-
-Alto
-
-Validação dos dados recebidos, identificação da instituição responsável e registro do histórico de alterações.
-
-Indisponibilidade dos sistemas
-
-Média
-
-Alto
-
-Backups, redundância de infraestrutura, monitoramento e plano de recuperação de serviços.
-
-Uso indevido das informações por instituições
-
-Média
-
-Muito alto
-
-Definição de finalidades permitidas, auditoria, responsabilização e fiscalização dos acessos.
-
-Discriminação ou decisões baseadas em dados incompletos
-
-Média
-
-Alto
-
-Revisão humana, testes de viés e proibição de decisões clínicas exclusivamente automatizadas.
-
-Exclusão de pessoas com dificuldades de acesso digital
-
-Alta
-
-Alto
-
-Manutenção de atendimento presencial, linguagem simples e alternativas de acesso às informações.
-
-Envio de documentos falsos ou incorretos pelo paciente
-
-Média
-
-Alto
-
-Identificação da origem dos documentos e validação por profissionais antes de incorporá-los ao histórico oficial.
-
-As classificações de probabilidade e impacto são estimativas iniciais para o projeto e deverão ser revistas durante os testes e a implantação.
-
-3.2 Decisão: implantar com controles
+**3.2 Decisão: implantar com controles**
 
 A decisão é implantar a solução com controles rigorosos de segurança, privacidade e transparência. A integração pode melhorar a continuidade do atendimento, reduzir a repetição de exames e facilitar o acesso ao histórico médico. Entretanto, como envolve dados pessoais sensíveis, sua implantação deverá ocorrer gradualmente, com testes de segurança, controle de permissões e auditoria. Os profissionais de saúde continuarão responsáveis pelas decisões clínicas, sem depender exclusivamente de processos automatizados. A solução também deverá respeitar a LGPD e garantir que o cidadão tenha conhecimento sobre o uso de suas informações.
 
-3.3 Controles antes de produção
+**3.3 Controles antes de produção**
 
 Antes da disponibilização da solução, deverão ser implementadas as seguintes medidas:
 
-Transparência: informar aos pacientes quais dados são coletados, por que são utilizados, quais instituições podem acessá-los e quais são seus direitos.
+- Transparência: informar aos pacientes quais dados são coletados, por que são utilizados, quais instituições podem acessá-los e quais são seus direitos.  
+- Revisão humana: garantir que informações clínicas importantes e documentos complementares sejam avaliados por profissionais habilitados, sem permitir que sistemas automatizados substituam decisões médicas.  
+- Minimização de dados: coletar e compartilhar somente as informações necessárias para cada finalidade, evitando o acesso a todo o histórico médico quando isso não for necessário  
+- Segurança da informação: utilizar criptografia durante o armazenamento e a transmissão dos dados, autenticação multifator, controle de acesso por função e monitoramento de atividades suspeitas.  
+- Teste de viés: avaliar periodicamente se os dados utilizados em análises ou ferramentas automatizadas apresentam distorções que possam prejudicar determinados grupos de pacientes.  
+- Canal de contestação: disponibilizar um canal para que os cidadãos solicitem correções de informações, esclareçam dúvidas e contestem acessos ou utilizações indevidas de seus dados.  
+- Auditoria e rastreabilidade: registrar quem acessou as informações, quando ocorreu o acesso, qual instituição realizou a consulta e quais alterações foram feitas.  
+- Plano de resposta a incidentes: estabelecer procedimentos para identificar, conter e comunicar incidentes de segurança, seguindo as exigências da LGPD e da Resolução CD/ANPD nº 15/2024.  
+- Controle de integração: verificar a identidade e a autorização das instituições conectadas à RNDS, além de validar a origem e a estrutura dos dados recebidos.
 
-Revisão humana: garantir que informações clínicas importantes e documentos complementares sejam avaliados por profissionais habilitados, sem permitir que sistemas automatizados substituam decisões médicas.
-
-Minimização de dados: coletar e compartilhar somente as informações necessárias para cada finalidade, evitando o acesso a todo o histórico médico quando isso não for necessário.
-
-Segurança da informação: utilizar criptografia durante o armazenamento e a transmissão dos dados, autenticação multifator, controle de acesso por função e monitoramento de atividades suspeitas.
-
-Teste de viés: avaliar periodicamente se os dados utilizados em análises ou ferramentas automatizadas apresentam distorções que possam prejudicar determinados grupos de pacientes.
-
-Canal de contestação: disponibilizar um canal para que os cidadãos solicitem correções de informações, esclareçam dúvidas e contestem acessos ou utilizações indevidas de seus dados.
-
-Auditoria e rastreabilidade: registrar quem acessou as informações, quando ocorreu o acesso, qual instituição realizou a consulta e quais alterações foram feitas.
-
-Plano de resposta a incidentes: estabelecer procedimentos para identificar, conter e comunicar incidentes de segurança, seguindo as exigências da LGPD e da Resolução CD/ANPD nº 15/2024.
-
-Controle de integração: verificar a identidade e a autorização das instituições conectadas à RNDS, além de validar a origem e a estrutura dos dados recebidos.
-
-3.4 LGPD – Tabela de dados pessoais
+**3.4 LGPD – Tabela de dados pessoais**
 
 A proposta envolve o tratamento de dados pessoais comuns e sensíveis, principalmente informações relacionadas à saúde. Por isso, o projeto deverá respeitar os princípios da finalidade, adequação, necessidade, transparência, segurança e prevenção previstos na Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
 
-Dados tratados
-
-Classificação
-
-Finalidade do tratamento
-
-Proteção necessária
-
-Nome completo
-
-Dado pessoal
-
-Identificar corretamente o paciente.
-
-Controle de acesso e armazenamento seguro.
-
-CPF e Cartão Nacional de Saúde (CNS)
-
-Dado pessoal
-
-Confirmar a identidade e relacionar os registros médicos ao paciente correto.
-
-Criptografia e acesso restrito.
-
-Data de nascimento e dados de contato
-
-Dado pessoal
-
-Identificação e comunicação com o cidadão.
-
-Acesso limitado e utilização somente quando necessário.
-
-Diagnósticos, doenças e histórico médico
-
-Dado pessoal sensível
-
-Permitir a continuidade do atendimento e o acompanhamento clínico.
-
-Criptografia, permissões específicas e auditoria.
-
-Resultados de exames e prescrições
-
-Dado pessoal sensível
-
-Auxiliar os profissionais na avaliação e no acompanhamento do paciente.
-
-Compartilhamento restrito e validação das informações.
-
-Vacinas, medicamentos e tratamentos
-
-Dado pessoal sensível
-
-Consultar procedimentos realizados e evitar interrupções ou repetições desnecessárias.
-
-Proteção contra acessos e alterações não autorizadas.
-
-Identificação dos profissionais de saúde
-
-Dado pessoal
-
-Verificar quem realizou o atendimento e controlar as permissões de acesso.
-
-Autenticação e registro de atividades.
-
-Registros de acesso ao sistema
-
-Dado pessoal, quando identificável
-
-Garantir rastreabilidade, auditoria e investigação de possíveis incidentes.
-
-Armazenamento protegido e acesso restrito.
+| Dados tratados | Classificação | Finalidade do tratamento | Proteção necessária |
+|----------------|---------------|--------------------------|---------------------|
+| Nome completo | Dado pessoal | Identificar corretamente o paciente. | Controle de acesso e armazenamento seguro. |
+| CPF e Cartão Nacional de Saúde (CNS) | Dado pessoal | Confirmar a identidade e relacionar os registros médicos ao paciente correto. | Criptografia e acesso restrito. |
+| Data de nascimento e dados de contato | Dado pessoal | Identificação e comunicação com o cidadão. | Acesso limitado e utilização somente quando necessário. |
+| Diagnósticos, doenças e histórico médico | Dado pessoal sensível | Permitir a continuidade do atendimento e o acompanhamento clínico. | Criptografia, permissões específicas e auditoria. |
+| Resultados de exames e prescrições | Dado pessoal sensível | Auxiliar os profissionais na avaliação e no acompanhamento do paciente. | Compartilhamento restrito e validação das informações. |
+| Vacinas, medicamentos e tratamentos | Dado pessoal sensível | Consultar procedimentos realizados e evitar interrupções ou repetições desnecessárias. | Proteção contra acessos e alterações não autorizadas. |
+| Identificação dos profissionais de saúde | Dado pessoal | Verificar quem realizou o atendimento e controlar as permissões de acesso. | Autenticação e registro de atividades. |
+| Registros de acesso ao sistema | Dado pessoal, quando identificável | Garantir rastreabilidade, auditoria e investigação de possíveis incidentes. | Armazenamento protegido e acesso restrito. |
 
 Bases legais e responsabilidades:
 
-Para dados pessoais comuns, poderão ser aplicadas as hipóteses legais do artigo 7º da LGPD, especialmente o cumprimento de políticas públicas pela administração pública, quando cabível.
+- Para dados pessoais comuns, poderão ser aplicadas as hipóteses legais do artigo 7º da LGPD, especialmente o cumprimento de políticas públicas pela administração pública, quando cabível.  
+- Para dados pessoais sensíveis, deverão ser observadas as hipóteses específicas do artigo 11, como o tratamento necessário à execução de políticas públicas previstas em leis e regulamentos e à tutela da saúde, conforme o contexto e os agentes envolvidos.  
+- O tratamento não deverá utilizar o consentimento como justificativa genérica para qualquer compartilhamento. A base legal deverá ser definida e documentada conforme a finalidade de cada operação.  
+- Os dados deverão ser mantidos somente pelo período necessário, respeitando as obrigações legais e os prazos de guarda aplicáveis.  
+- Os cidadãos deverão ter acesso a informações sobre o tratamento de seus dados e aos mecanismos legais para solicitar correções e exercer seus direitos.
 
-Para dados pessoais sensíveis, deverão ser observadas as hipóteses específicas do artigo 11, como o tratamento necessário à execução de políticas públicas previstas em leis e regulamentos e à tutela da saúde, conforme o contexto e os agentes envolvidos.
-
-O tratamento não deverá utilizar o consentimento como justificativa genérica para qualquer compartilhamento. A base legal deverá ser definida e documentada conforme a finalidade de cada operação.
-
-Os dados deverão ser mantidos somente pelo período necessário, respeitando as obrigações legais e os prazos de guarda aplicáveis.
-
-Os cidadãos deverão ter acesso a informações sobre o tratamento de seus dados e aos mecanismos legais para solicitar correções e exercer seus direitos.
-
-3.5 Comunicado público (estilo LinkedIn)
+**3.5 Comunicado público (estilo LinkedIn)**
 
 A proposta busca facilitar o acesso ao histórico de saúde por meio da integração entre instituições e a Rede Nacional de Dados em Saúde (RNDS), com consulta pelo Meu SUS Digital e por profissionais autorizados. O uso será limitado às finalidades legítimas, com acesso controlado, registro de consultas e proteção conforme a LGPD. O cidadão receberá informações claras sobre seus dados e terá canal para solicitar correções, esclarecer dúvidas ou contestar usos indevidos. A implantação será gradual, após testes de segurança e avaliação dos resultados.
-
-Contagem: 552 caracteres (incluindo espaços e pontuação).
 
 ## 4. Acessibilidade e inclusão digital
 **4.1 Quem pode ficar de fora + o que a solução faz por cada grupo**
