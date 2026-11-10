@@ -638,3 +638,9 @@ As referências abaixo foram utilizadas para fundamentar as pesquisas, decisões
 9. **HL7 INTERNATIONAL.** FHIR (Fast Healthcare Interoperability Resources). Padrão internacional para troca e integração de informações em saúde. Disponível em: https://hl7.org/fhir/R4/. Acesso em: 9 nov. 2026.
 
 10. **BRASIL.** Lei nº 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a promoção, proteção e recuperação da saúde e a organização e o funcionamento dos serviços correspondentes. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8080.htm. Acesso em: 9 nov. 2026.
+
+11. **PÁGINA DA FIOCRUZ , Escola Politécnica de Saúde Joaquim Venâncio** https://www.epsjv.fiocruz.br/noticias/reportagem/falta-de-integracao-e-distribuicao-das-bases-de-dados-fragiliza-sistemas-de?utm_source
+
+12. **PÁGINA DA TCU , TRIBUNAL DE CONTAS DA UNIÃO** https://portal.tcu.gov.br/imprensa/noticias/tcu-avalia-programa-agora-tem-especialistas-do-ministerio-da-saude?utm_source
+
+13. **PORTAL CFM , CONSELHO FEDERAL DE MEDICINA** https://portal.cfm.org.br/noticias/em-13-anos-brasil-perde-25-mil-leitos-de-internacao-do-sus/?utm_source
