@@ -305,10 +305,10 @@ Com isso, minha contribuição envolveu não apenas a análise dos riscos e as d
 - **Pontos a melhorar**:  
 - **Sugestões**:
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Ana Julia | Engenharia de dados ]**  
+- **Pontos positivos**: Teve uma participação importante no projeto, principalmente na parte de segurança dos dados dos pacientes. Também apresentou um plano bem organizado.
+- **Pontos a melhorar**: Pode buscar mais experiências práticas na área de segurança da informação e melhorar seu inglês.
+- **Sugestões**: Fazer cursos, praticar em atividades de segurança e desenvolver pequenos projetos para ganhar mais conhecimento.
 
 ### 8.2 [Ana Julia de Aquino Silva | Engenharia de Dados]
 
@@ -394,10 +394,10 @@ Além disso, considerei requisitos de acessibilidade baseados nas diretrizes WCA
 - **Sugestões**:
 - Criar pelo menos dois projetos de programação e publicá-los no GitHub, explicando suas funcionalidades e tecnologias utilizadas.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Ana Julia | Engenharia de dados ]**  
+- **Pontos positivos**: Apresentou metas bem organizadas e escolheu áreas importantes para seu desenvolvimento no seu curso, como programação, cibersegurança e banco de dados.
+- **Pontos a melhorar**: Pode melhorar a comunicação em grupo e ter mais prática nas atividades de programação.
+- **Sugestões**: Criar pequenos projetos, estudar inglês com frequência e manter uma boa organização dos estudos.
 
 ### 8.4 [ Arthur Costa de Paula | Engenharia de Dados]
 
@@ -432,10 +432,10 @@ Fui responsável pela pesquisa e análise dos principais desafios enfrentados pe
 - **Pontos a melhorar**:  Poderia detalhar melhor como as soluções propostas seriam colocadas em prática e aprofundar a relação entre suas pesquisas e a proposta tecnológica do grupo.
 - **Sugestões**: Desenvolver projetos práticos utilizando Python e Java, além de buscar formas de relacionar seus conhecimentos de programação e engenharia de dados aos problemas apresentados no projeto.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Ana Julia | Engenharia de dados ]**  
+- **Pontos positivos**: Apresentou boas ideias para melhorar os serviços do SUS e mostrou interesse em aprender e evoluir na área de tecnologia.
+- **Pontos a melhorar**: Pode melhorar a organização dos prazos e continuar praticando programação sem depender tanto da IA. 
+- **Sugestões**: Desenvolver mais projetos por conta própria e manter uma rotina de estudos.
 
 ### 8.5 João Victor de Jesus Silva | Engenharia de dados
 
@@ -472,10 +472,10 @@ Fui responsável pela realização de pesquisas, análise do problema relacionad
 - **Pontos a melhorar**:   Poderia detalhar um pouco mais sua participação na construção da solução tecnológica, mostrando quais conhecimentos de Engenharia de Dados foram aplicados ou poderiam ser utilizados no projeto.
 - **Sugestões**:  Aprofundar os conhecimentos em SQL, integração de sistemas e modelagem de dados, desenvolvendo projetos práticos que possam demonstrar sua evolução e contribuir para sua entrada no mercado de tecnologia.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Ana Julia | Engenharia de dados ]**  
+- **Pontos positivos**: Apresentou boas metas e demonstrou interesse em melhorar seus conhecimentos em programação, banco de dados e comunicação.
+- **Pontos a melhorar**:  Pode explicar melhor seus planos para conseguir uma oportunidade de trabalho na área de tecnologia.
+- **Sugestões**: Praticar mais programação, desenvolver projetos e buscar oportunidades de estágio.
 
 ## 9. Referências
 
