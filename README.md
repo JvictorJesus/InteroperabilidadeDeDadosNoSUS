@@ -2,7 +2,7 @@
 
 ## Integrantes
 Alison Belen | [GitHub](https://github.com/alison97-ciber) | Cibersegurança | 48012327  
-Ana Julia de Aquino Silva | [GitHub](https://github.com/aquinoana1109-lgtm) | Engenharia de Dados| 47784105.  
+Ana Julia de Aquino Silva | [GitHub](https://github.com/aquinoana1109-lgtm) | Engenharia de Dados| 47784105  
 Arthur Costa de Paula | [GitHub](https://github.com/artcpaula2007-creator) | Engenharia de Dados | 48108014  
 João Victor de Jesus Silva | [GitHub](https://github.com/JvictorJesus) | Engenharia de Dados | 48134872  
 Rafael Christian de Araujo Costa | [GitHub](https://github.com/Rafael44Christian) | Cibersegurança | 47926597    
@@ -300,10 +300,10 @@ Com isso, minha contribuição envolveu não apenas a análise dos riscos e as d
 - **Pontos a melhorar**: Poderia detalhar melhor como pretende acompanhar seu progresso e avaliar o desenvolvimento de cada competência ao longo do tempo.  
 - **Sugestões**: Buscar cursos, atividades práticas e laboratórios de Cibersegurança, estabelecendo um acompanhamento periódico das metas para garantir o desenvolvimento das habilidades propostas.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[João Victor de Jesus Silva | Engenharia de dados]**  
+- **Pontos positivos**: Apresenta diversas contribuições extremamente impactantes para o andamento do projeto, além de destacar os riscos no processo de execução do mesmo. Maior centralização das metas na área de seu interesse.  
+- **Pontos a melhorar**: Apesar de ter metas muito bem estabelecidas acerca de sua área de interesse, ainda possuí uma margem muito grande de desenvolvimento profissional em outras áreas como APIs e desenvolvimento.  
+- **Sugestões**: Continuar focando nos estudos da área de cibersegurança, porém, com possibilidade de desenvolvimento de outras SoftSkills.
 
 **[Ana Julia | Engenharia de dados ]**  
 - **Pontos positivos**: Teve uma participação importante no projeto, principalmente na parte de segurança dos dados dos pacientes. Também apresentou um plano bem organizado.
@@ -348,10 +348,10 @@ Minha participação no projeto foi ajudar na pesquisa sobre o problema de falta
 - **Pontos a melhorar**: Algumas metas poderiam ser mais específicas, com prazos e formas de avaliar o progresso, facilitando o acompanhamento do desenvolvimento das competências.  
 - **Sugestões**: Realizar atividades práticas e cursos relacionados às competências propostas, além de acompanhar regularmente o cumprimento das metas e buscar desenvolver a comunicação e o inglês.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[João Victor de Jesus Silva | Engenharia de Dados]**  
+- **Pontos positivos**: Demonstrou proatividade ao contribuir com a pesquisa sobre a falta de integração de informações no sistema de saúde. Elaborou um plano de desenvolvimento realista.  
+- **Pontos a melhorar**: Apresenta poucas metas relacionadas ao desenvolvimento na área de interesse.   
+- **Sugestões**: Ampliar a abrangência da área de interesse, explorando outros aspectos da Engenharia de Dados além do foco inicial do projeto.
 
 ## 8.3 Alison Belen | Cibersegurança
 
