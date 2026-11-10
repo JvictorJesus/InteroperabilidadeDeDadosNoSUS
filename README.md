@@ -2,7 +2,7 @@
 
 ## Integrantes
 Alison Belen | [GitHub](https://github.com/alison97-ciber) | Cibersegurança | 48012327  
-Ana Julia de Aquino Silva | GitHub | Engenharia de Dados| 47784105.  
+Ana Julia de Aquino Silva | [GitHub](https://github.com/aquinoana1109-lgtm) | Engenharia de Dados| 47784105.  
 Arthur Costa de Paula | [GitHub](https://github.com/artcpaula2007-creator) | Engenharia de Dados | 48108014  
 João Victor de Jesus Silva | [GitHub](https://github.com/JvictorJesus) | Engenharia de Dados | 48134872  
 Rafael Christian de Araujo Costa | [GitHub](https://github.com/Rafael44Christian) | Cibersegurança | 47926597    
