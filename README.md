@@ -295,10 +295,10 @@ Com isso, minha contribuição envolveu não apenas a análise dos riscos e as d
 - **Sugestões**:
 - Estudar a LGPD na prática: Elaborar checklists de privacidade e segurança para aplicar em projetos acadêmic
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Alison Belen | Cibersegurança]**  
+- **Pontos positivos**: Rafael apresentou um bom planejamento de desenvolvimento, identificando competências técnicas e comportamentais importantes para sua formação em Cibersegurança. As metas são claras e demonstram interesse em aprimorar seus conhecimentos.  
+- **Pontos a melhorar**: Poderia detalhar melhor como pretende acompanhar seu progresso e avaliar o desenvolvimento de cada competência ao longo do tempo.  
+- **Sugestões**: Buscar cursos, atividades práticas e laboratórios de Cibersegurança, estabelecendo um acompanhamento periódico das metas para garantir o desenvolvimento das habilidades propostas.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
@@ -343,10 +343,10 @@ Minha participação no projeto foi ajudar na pesquisa sobre o problema de falta
 - **Sugestões**:
 - Utilizar aplicativos como Duolingo e assistir a vídeos com legendas em inglês para melhorar a compreensão.
 
-**[Nome do integrante | Área de carreira]**  
-- **Pontos positivos**:  
-- **Pontos a melhorar**:  
-- **Sugestões**:
+**[Alison Belen | Cibersegurança]**  
+- **Pontos positivos**: Apresentou um plano de desenvolvimento com competências importantes para sua formação, demonstrando interesse em aprimorar seus conhecimentos em banco de dados, integração de dados e Python. Também estabeleceu metas relacionadas à comunicação e ao aprendizado de inglês.  
+- **Pontos a melhorar**: Algumas metas poderiam ser mais específicas, com prazos e formas de avaliar o progresso, facilitando o acompanhamento do desenvolvimento das competências.  
+- **Sugestões**: Realizar atividades práticas e cursos relacionados às competências propostas, além de acompanhar regularmente o cumprimento das metas e buscar desenvolver a comunicação e o inglês.
 
 **[Nome do integrante | Área de carreira]**  
 - **Pontos positivos**:  
