@@ -481,7 +481,7 @@ Fui responsável pela realização de pesquisas, análise do problema relacionad
 
 As referências abaixo foram utilizadas para fundamentar as pesquisas, decisões técnicas, análises éticas e propostas apresentadas neste projeto.
 
-1. **GITHUB.** Interoperabilidade de Dados no SUS – Repositório do projeto. Disponível em: https://github.com/JvictorJesus/InteroperabilidadeDeDadosNoSUS. Acesso em: 9 nov. 2026.
+1. **HADDAD, Ana Estela.** Interoperabilidade vai avançar no sistema de saúde [Ana Estela Haddad, Ministério da Saúde]. Entrevista. In: FUTURO DA SAÚDE. Futuro Talks. YouTube, 22 jan. 2025. Disponível em: https://www.youtube.com/watch?v=G_cdZV0SGmM. Acesso em: 9 nov. 2026.
 
 2. **BRASIL. Ministério da Saúde.** Rede Nacional de Dados em Saúde (RNDS). Apresenta a plataforma oficial de interoperabilidade e o compartilhamento de informações de saúde. Disponível em: https://www.gov.br/saude/pt-br/composicao/seidigi/rnds/rnds. Acesso em: 9 nov. 2026.
 
